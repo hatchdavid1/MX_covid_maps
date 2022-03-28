@@ -1,4 +1,4 @@
-# MX_covid_maps
+# MX_Maps
 
 # Coronavirus MX Maps using python
 
